@@ -7,3 +7,7 @@ added an h1 markdown symbol followed by a space.
 ```py
 list_1 = ["armin","was",here","!"]
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
